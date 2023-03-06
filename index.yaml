@@ -1,0 +1,6 @@
+indexes:
+  - kind: messages
+    properties:
+      - name: chat_id
+      - name: created_at
+        direction: desc

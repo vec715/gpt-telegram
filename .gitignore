@@ -1,0 +1,42 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+vendor/
+bin/
+
+# Generated files
+*.test
+*.prof
+*.pprof
+*.cover
+*.out
+*.exe
+
+# Log files
+*.log
+
+# Binary files
+*.bin
+*.dat
+*.db
+
+# Go specific
+*.[568vq]
+*.swp
+*.un~ 
+
+# Go env files
+.env
+env.sh
+
+# IDE files
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+*.vscode/
