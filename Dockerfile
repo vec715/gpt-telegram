@@ -9,5 +9,5 @@ RUN go mod download && go mod verify
 COPY . .
 RUN go build -v -o /usr/local/bin/app cmd/main.go
 
-EXPOSE 7005
+EXPOSE 8080
 CMD ["app"]
