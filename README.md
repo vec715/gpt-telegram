@@ -4,6 +4,9 @@ The project involves integrating ChatGPT, which is a large language model, into 
 
 Currently, the project supports the features to run project locally via Docker compose and on Google Cloud Platform. The project is still in development and more features will be added in the future.
 
+![Demo](/img/demo.png)
+
+
 ## Table of Contents
 
 - [Installation](#installation)
